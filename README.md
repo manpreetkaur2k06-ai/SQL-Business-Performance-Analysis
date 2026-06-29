@@ -1,17 +1,17 @@
 # SQL-Business-Performance-Analysis
 SQL Business Performance Analysis using SQLite | Data Analytics Portfolio Project
 
-Overview:
+# Overview:
 This project analyzes Walmart sales data using SQL to generate actionable business insights. The analysis covers sales performance, customer behavior, branch performance, product categories, payment methods, and revenue trends using SQLite.
 
-Objectives:
+# Objectives:
 1. Perform exploratory data analysis using SQL
 2. Analyze sales performance across branches and cities
 3. Identify top-performing product categories
 4. Evaluate customer ratings and payment methods
 5. Generate business insights using SQL queries
 
-Dataset:
+# Dataset:
 The Dataset contains Walmart sales transactions records, including:
 1. Invoice ID
 2. Branch
@@ -25,13 +25,13 @@ The Dataset contains Walmart sales transactions records, including:
 10. Customer Rating
 11. Profit Margin
 
-Tools & Technologies used:
+# Tools & Technologies used:
 1. SQLite
 2. DB Browser for SQLite
 3. Visual Studio Code
 4. GitHub
 
-SQL Concepts Demonstrated:
+# SQL Concepts Demonstrated:
 1. Data Exploration
 2. Aggregate Functions
 3. GROUP BY & HAVING
@@ -41,7 +41,7 @@ SQL Concepts Demonstrated:
 7. Window Functions
 8. Business KPI Analysis
 
-Key Analyses Performed:
+# Key Analyses Performed:
 1. Revenue Analysis
 2. Branch Performance Analysis
 3. City-wise Sales Analysis
@@ -51,7 +51,7 @@ Key Analyses Performed:
 7.Monthly Sales Trend Analysis
 8. Executive Business Summary
 
-Business Insights:
+# Business Insights:
 This analysis provides valuable insights into Walmart's sales performance by examining transaction data across multiple business dimensions. The SQL queries help answer key business questions, including:
 1. Which branches and cities generate the highest revenue.
 2. Which product categories contribute the most to overall sales.
@@ -62,13 +62,13 @@ This analysis provides valuable insights into Walmart's sales performance by exa
 7. Identification of high-value transactions and top-performing product categories.
 8. Executive-level KPIs such as total revenue, average transaction value, total transactions, and average customer rating to support business decision-making.
 
-How to Run the Project:
+# How to Run the Project:
 1. Download the repository.
 2. Open the database using DB Browser for SQLite.
 3. Open the Walmart_Analysis_SQL.sql file.
 4. Execute the SQL queries to reproduce the analysis.
 
-Project Preview:
+# Project Preview:
 Below are sample outputs from key SQL queries performed during the analysis. These screenshots highlight important business insights and demonstrate the use of SQL for business performance analysis.
 
 1. Query 14: Revenue by Branch
