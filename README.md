@@ -52,12 +52,15 @@ Key Analyses Performed:
 8. Executive Business Summary
 
 Business Insights:
-1. Identified the highest-performing branches based on revenue.
-2. Compared sales performance across different product categories.
-3. Analyzed customer satisfaction through ratings.
-4. Evaluated payment method preferences.
-5. Tracked monthly revenue trends to identify sales patterns.
-6. Generated executive-level KPIs for business decision-making.
+This analysis provides valuable insights into Walmart's sales performance by examining transaction data across multiple business dimensions. The SQL queries help answer key business questions, including:
+1. Which branches and cities generate the highest revenue.
+2. Which product categories contribute the most to overall sales.
+3. Customer satisfaction trends based on average ratings across categories.
+4. Most preferred payment methods used by customers.
+5. Monthly revenue trends and seasonal sales patterns.
+6. Branch-wise performance comparison using revenue and profit margin.
+7. Identification of high-value transactions and top-performing product categories.
+8. Executive-level KPIs such as total revenue, average transaction value, total transactions, and average customer rating to support business decision-making.
 
 How to Run the Project:
 1. Download the repository.
