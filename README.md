@@ -12,7 +12,7 @@ Objectives:
 5. Generate business insights using SQL queries
 
 Dataset:
-The dataset contains Walmart sales transaction records, including:
+The Dataset contains Walmart sales transactions records, icluding:
 1. Invoice ID
 2. Branch
 3. City
