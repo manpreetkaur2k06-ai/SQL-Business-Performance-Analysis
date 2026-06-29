@@ -70,11 +70,11 @@ How to Run the Project:
 
 Project Preview:
 Below are sample outputs from key SQL queries performed during the analysis. These screenshots highlight important business insights and demonstrate the use of SQL for business performance analysis.
-1. Query 14: Revenue by Branch
+Query 14: Revenue by Branch
 <img width="950" height="719" alt="Query 14" src="https://github.com/user-attachments/assets/050c2da6-931c-483c-8991-1d256330fb99" />
-2. Query 20: Top 10 Highest Revenue Transactions
+Query 20: Top 10 Highest Revenue Transactions
 <img width="954" height="701" alt="Query 20" src="https://github.com/user-attachments/assets/073440e4-8432-40cb-9d97-8010201dd16d" />
-3. Query 30: Monthly Revenue Trend
+Query 30: Monthly Revenue Trend
 <img width="946" height="717" alt="Query 30" src="https://github.com/user-attachments/assets/67883d0e-1485-4328-a6b9-faf538382cec" />
-4. Query 40: Executive Business Summary
+Query 40: Executive Business Summary
 <img width="955" height="711" alt="Query 40" src="https://github.com/user-attachments/assets/239efc0e-673f-46cd-8c78-df3a58847b00" />
